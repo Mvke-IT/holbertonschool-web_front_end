@@ -1,4 +1,4 @@
-# This project is learnig Html
+# This project is learning Html
 
 # Learning Objectives
 
